@@ -1,0 +1,11 @@
+{
+  "short_name": "Lukso Coinflip Game",
+  "name": "Lukso Coinflip Game",
+  "icons": [
+  
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
